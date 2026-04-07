@@ -1,1 +1,1 @@
-# -kvideo-config
+config
